@@ -1,0 +1,56 @@
+body
+{
+	background:#000;
+
+}
+
+div.block
+{
+	width: 1280px;
+    height: 720px;
+    position:relative;
+    background-repeat: no-repeat;
+}
+
+#fond
+{
+	background-repeat: no-repeat;
+	width:100%;
+	height:100%;
+}
+
+#un
+	{
+		display:block;
+		height:auto;
+	}
+
+#deux
+	{
+		display:block;
+		height:auto;
+	}
+
+#trois
+	{
+		display:block;
+		height:auto;
+	}
+
+#quatre
+	{
+		display:block;
+		height:auto;
+	}
+
+#cinq
+	{
+		display:block;
+		height:auto;
+	}
+
+#six
+	{
+		display:block;
+		height:auto;
+	}
